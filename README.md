@@ -1,6 +1,6 @@
 # sequelize-orm
 
-This is a basic ORM model that has been implemented using Sequelize, a promise-based Node.js ORM for Postgres, MySQL, MariaDB, SQLite and Microsoft SQL Server. This example has shown uses of sqlite and MySql. However, the option to switch between the aforementioned relational databases has been given.
+This is a basic ORM model that has been implemented using Sequelize, a promise-based Node.js ORM for Postgres, MySQL, MariaDB, SQLite and Microsoft SQL Server. This example has shown uses of SQLite and MySql. However, the option to switch between the aforementioned relational databases has been given.
 
 
 ## Folder Structure
