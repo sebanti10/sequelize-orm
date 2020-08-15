@@ -25,7 +25,7 @@ sequelize-orm
 
 You can switch to different relational databases by following the steps mentioned below:
  1. Go to /src/controllers/ormController.js
- 2. Uncomment the desired code as explained below-
+ 2. Uncomment the desired code as explained below- <br>
 	**- SQLite:** Uncomment option 1 (line 6) 
 			 
 		//1. Passing a connection URI (for sqlite)
