@@ -5,10 +5,6 @@
 This is a basic ORM model that has been implemented using Sequelize, a promise-based Node.js ORM for Postgres, MySQL, MariaDB, SQLite and Microsoft SQL Server. This example has shown uses of sqlite and MySql. However, the option to switch between the aforementioned relational databases has been given.
 
 
-# Files
-
-StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
-
 ## Folder Structure
 
 The folder structure is as follows-
